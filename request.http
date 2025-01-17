@@ -4,4 +4,13 @@ GET http://localhost:3000/
 GET http://localhost:3000/signup/
 
 ###
+GET http://localhost:3000/login/
+
+###
 GET http://localhost:3000/oppurtunity/
+
+###
+GET http://localhost:3000/opportunity/1
+
+###
+POST http://localhost:3000/login/
